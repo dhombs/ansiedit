@@ -1,6 +1,6 @@
 Try it for yourself at http://andyherbert.github.io/ansiedit/
 
-Distributed under the MIT licence. See LICENCE.txt
+Distributed under the MIT licence. See LICENSE.txt
 
 Uses Google's Material Icons. https://material.io/icons/
 
